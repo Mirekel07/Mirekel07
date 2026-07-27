@@ -34,6 +34,6 @@ Welcome to my GitHub profile! I am an Information Technology undergraduate at Un
 
 ### ⚡ GitHub Stats
 
-![Mirekel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirekel07&show_icons=true&theme=tokyonight)
+[Mirekel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mirekel07&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirekel07&layout=compact&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirekel07&layout=compact&theme=tokyonight)
