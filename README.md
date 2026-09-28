@@ -1,6 +1,6 @@
 ### Hi there, I'm Mirekel! 👋
 
-**Cybersecurity Enthusiast | Full-Stack Developer | IT Student**
+**IT Enthuasiast | Data Enthusiast | Networking**
 
 Welcome to my GitHub profile! I am an Information Technology undergraduate at Universitas Sumatera Utara (USU) with a strong passion for securing digital ecosystems, analyzing data, and building seamless web and mobile applications.
 
